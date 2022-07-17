@@ -19,3 +19,6 @@ The result obtained from the api is displayed in the UI<br>
 
 Created using React and styled using Tailwind CSS<br>
 Deployed on firebase :https://getuser-info.web.app
+
+Task 3 : Create a user registration form.<br>
+Created using react and styled using tailwind css
