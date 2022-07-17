@@ -21,4 +21,6 @@ Created using React and styled using Tailwind CSS<br>
 Deployed on firebase :https://getuser-info.web.app
 
 Task 3 : Create a user registration form.<br>
-Created using react and styled using tailwind css
+Created using react and styled using tailwind css.<br>
+
+Deployed on Firebase:https://user-registration-954bb.web.app
